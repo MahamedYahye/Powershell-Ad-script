@@ -1,0 +1,3 @@
+﻿First Name,Last Name,Job Title,Office Phone,Employee ID,Email Address,Description,Organizational Unit,AddToGroups(csv),Enabled,Password
+Test,Test,It,123-537-8775,77,tmd@tmd.com,User created by PowerShell automated script,"OU=IT,DC=Tmd,DC=com","CN=Domain Admins,CN=Users,DC=Tmd,DC=com, CN=Enterprise Admins,CN=Users,DC=Tmd,DC=com, CN=Schema Admins,CN=Users,DC=Tmd,DC=com",TRUE,P@$$w0rd
+
